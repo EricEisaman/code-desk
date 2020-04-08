@@ -1,0 +1,10 @@
+{
+  "main": "main.js",
+  "scripts":{
+    "start":"node main"
+   },
+  "engines": {
+    "node": "^12.x"
+  }
+}
+
